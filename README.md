@@ -1,6 +1,6 @@
 * [Jet Flavour Classification](#jet-flavour-classification)
   * [Setting Up Environment](#setting-up-environment)
-  * [Data Preparation](#data-preparataion)
+
 
 # Jet Flavour Classification
 
@@ -26,4 +26,4 @@ pip install networkx
 pip install scikit-learn
 pip install seaborn
 ```
-## Data Preparation
+
