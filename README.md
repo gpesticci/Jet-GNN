@@ -6,7 +6,6 @@
 
 The goal of this project is to develop a graph neural network to classify jets. Currently, the model can determine if a jet originated from a _b_-quark or not.
 In the future, it will be extended to classify _c_-jets and fat jets.
-The classifier performs with AUC = 0.9245, and has a working efficiency of 80% with 90% background rejection.
 
 
 ## Setting Up Environment
