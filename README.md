@@ -1,8 +1,7 @@
 # Jet Flavour Classification
 
-The goal of this project is to develop a graph neural network to classify jets. Currently, the model can determine if a jet originated from a _b_-quark or not.
+The goal of this project is to develop a graph neural network to classify jets. Currently, the model identifies if a jet originated from a _b_-quark or not.
 In the future, it will be extended for _c_-jet and fat jet classification.
-
 
 ## Setting Up Environment
 
