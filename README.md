@@ -1,6 +1,10 @@
 # Jet Flavour Classification
 
-The goal of this project is to develop a graph neural network to classify jets. Currently, we have four classifiers for b,c, and q-jets.
+This project aims to classify heavy-flavour jets at LHCb using graph neural networks (GNNs). Currently, we have four classifiers
+- b vs q
+- c vs b
+- c vs q
+- b/c vs q
 
 ## Setting Up Environment
 
