@@ -8,19 +8,4 @@ This project aims to classify heavy-flavour jets at LHCb using graph neural netw
 
 ## Setting Up Environment
 
-Use Python version 3.9.0, since PyTorch Geometric is incompatable with the most recent versions.
-Install the following packages to your environment:
-
-```
-pip install pandas
-pip install numpy
-pip install matplotlib
-pip install torch
-pip install torchvision
-pip install torchaudio
-pip install torch-geometric
-pip install networkx
-pip install scikit-learn
-pip install seaborn
-```
-
+Use Python version 3.9.0, since PyTorch Geometric is incompatable with the most recent versions. Conda environment, gnn_env, is attached.
