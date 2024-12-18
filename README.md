@@ -1,6 +1,6 @@
 # Jet Flavour Classification
 
-This project aims to classify heavy-flavour jets at LHCb using graph neural networks (GNNs). Currently, we have four classifiers
+This project aims to classify heavy-flavour jets at LHCb using graph neural networks (GNNs). Currently, we have four classifiers:
 - b vs q
 - c vs b
 - c vs q
