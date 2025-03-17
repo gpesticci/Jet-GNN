@@ -1,10 +1,11 @@
-# Jet Flavour Classification
+# Jet Flavor Classification
 
-This project aims to classify heavy-flavour jets at LHCb using graph neural networks (GNNs). Currently, we have four classifiers:
+These nootebooks are used to classify heavy-flavored jets at LHCb using graph neural networks (GNNs). Currently, there are four binary classifiers:
 - b vs q
 - c vs b
 - c vs q
 - b/c vs q
+There is also a combined classifier, which performs the same classification. 
 
 ## Setting Up Environment
 
